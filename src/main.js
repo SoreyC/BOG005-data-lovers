@@ -25,7 +25,7 @@ function cards(obj) {
 
     for (let spell of obj) {
 
-        if (obj.spell_type !== null) {
+        if (spell.spell_type !== null) {
             printSpells += `<article class="card">
                 <figure class="cardImage">
                     <img class="spellsPic" src="https://www.ecipic.com/material/img/cultura-y-ocio/38673_1605530324_hechizos-de-harry-potter-2.jpg"> 
