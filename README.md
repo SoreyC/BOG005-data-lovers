@@ -2,6 +2,8 @@
 
 ## DATA LOVERS - HARRY POTTER
 
+* Despliegue del proyecto
+
 https://soreyc.github.io/BOG005-data-lovers-J-S/src
 
 ## Índice
