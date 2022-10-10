@@ -20,6 +20,7 @@ header {
 #btnLogo {
     background-color: #1b1717;
     border-color: #1b1717;
+    border: none;
 }
 
 body #firstPage {
